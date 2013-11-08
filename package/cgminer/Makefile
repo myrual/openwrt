@@ -11,7 +11,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=cgminer
 PKG_VERSION:=3.4.3
 # Date:   Sun Sep 22 08:30:59 2013 -0700
-PKG_REV:=a174f0a70b00af89da76c68779867d41d705e53a
+PKG_REV:=5dd30c3bb2a0025fe24d28dbdd4b0a0ebe75ecd4
 PKG_RELEASE:=1
 PKG_INSTALL:=1
 
